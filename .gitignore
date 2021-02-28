@@ -1,1 +1,5 @@
 #Ignore Data folder
+Data
+
+#ignore checkpoints
+.ipynb_checkpoints
